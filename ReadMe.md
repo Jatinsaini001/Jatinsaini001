@@ -5,8 +5,9 @@
 
 ---
 
-<img align="left" src="./Profile.jpeg" width="180"/>
-
+<p align="left">
+  <img src="./Profile.jpeg" width="180" style="border-radius:50%;" />
+</p>
 ## 💫 About Me:
 🔭 I’m currently building **MallOS** — a real-world mall management platform  
 🤝 Open to collaborating on impactful tech & startup projects  
@@ -44,14 +45,19 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatinsaini001&theme=dark&show_icons=true&hide_border=false&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jatinsaini001&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinsaini001&theme=dark&layout=compact&hide_border=false" />
-</p>
+## 🚀 Featured Projects:
+
+### 🔹 MallOS — Mall Management System  
+🚀 Full-stack mall platform  
+🛠️ Flask | MongoDB | JavaScript  
+📌 Shop • Billing • Inventory • Analytics  
+
+---
+
+### 🔹 HealthLens — Smart Health Analysis  
+🧠 Data-driven health insights system  
+🛠️ Python | Data Processing | UI  
+📌 Tracking • Analysis • Recommendations  
 
 ---
 

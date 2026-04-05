@@ -5,7 +5,7 @@
 
 ---
 
-<img align="left" src="jatin_saini_git.jpeg" width="180"/>
+<img align="left" src="./Profile.jpeg" width="180"/>
 
 ## 💫 About Me:
 🔭 I’m currently building **MallOS** — a real-world mall management platform  
